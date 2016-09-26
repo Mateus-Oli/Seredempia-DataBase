@@ -9,7 +9,7 @@ db.schools.remove({})
 db.transports.remove({})
 
 //Insert Transport
-db.schools.insert({"cnpj":"77777777777777","name":"Transporte", "password":"Transporte"});
+db.transports.insert({"cnpj":"77777777777777","name":"Transporte", "password":"Transporte"});
 
 //Insert Schools
 db.schools.insert({"cnpj":"99999999999999","name":"Escola", "password":"Escola"});
