@@ -36,6 +36,6 @@ IF "%Question%"=="y" (
 
   CD PopulateDB
   Start PopulateDB.bat
-)
 
+)
 EXIT
