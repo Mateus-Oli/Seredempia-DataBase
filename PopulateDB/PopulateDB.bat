@@ -5,6 +5,6 @@ REM (Shows Only Outputs)
   CLS
 
 REM (Opens Mongo and Populates it)
-  mongo<PopulateDB.js
+  mongo seredempia<PopulateDB.js
 
 EXIT
