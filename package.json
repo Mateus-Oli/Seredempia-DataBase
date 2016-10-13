@@ -1,0 +1,21 @@
+{
+  "name": "Seredempia",
+  "version": "1.0.0",
+  "description": "Graduation Project - Mateus Oliveira Carvalho: Data Base Content",
+  "main": "StartDB.bat",
+  "scripts": {
+    "start": "StartDB.bat"
+  },
+  "dependencies": {
+    "MongoDB": "3.2.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mateus-Oli/Seredempia-DataBase.git"
+  },
+  "keywords": [
+    "Seredempia",
+    "DataBase",
+  ],
+  "license": "ISC"
+}
